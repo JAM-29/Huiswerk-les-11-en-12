@@ -1,0 +1,91 @@
+body {
+    background: #FFFFFF;
+}
+
+header, footer{
+    width: 100%;
+}
+
+h1{
+    color: whitesmoke;
+    background-color: rgb(88, 88, 109);
+}
+
+h2{
+    color: whitesmoke;
+    background-color: rgb(88, 88, 109);
+}
+
+h2:hover{
+    color: rgb(248, 1, 1);
+    background-color: rgba(157, 157, 165, 0.219);
+}
+    
+#jager{
+    background-color: rgb(2, 59, 2);
+    color: orangered;
+}
+
+#jagerafb{
+    background-color: rgba(2, 59, 2, 0.500);
+}
+
+#bier{
+    background-color: rgb(219, 38, 38);
+    color: #FFFFFF;
+}
+
+#bierafb{
+    background-color: rgb(219, 38, 38, 0.500);
+}
+
+#whiskey{
+    background-color: rgb(8, 8, 8);
+    color: white;
+}
+
+#whiskeyafb{
+    background-color: rgb(8, 8, 8, 0.500);
+}
+
+#vodka{
+    background-color: rgb(218, 218, 240);
+    color: mediumblue;
+}
+
+#vodkaafb{
+    background-color: rgb(218, 218, 240, 0.500);
+}
+
+#disaronno{
+    background-color: rgb(97, 82, 50);
+}
+
+#disaronnoafb{
+    background-color: rgb(97, 82, 50, 0.500);
+}
+
+#gin{
+    background-color: #0066CC;
+    color: orange;
+}
+
+#ginafb{
+    background-color: #0066cc50;
+}
+
+#wijn{
+    background-color: burlywood;
+}
+
+#wijnafb{
+    background-color: rgba(222, 184, 135, 0.5);
+}
+
+#rum{
+    background-color: aqua;
+}
+
+#rumafb{
+    background-color: rgba(0, 255, 255, 0.5);
+}
